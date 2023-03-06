@@ -9,7 +9,7 @@
 <b> Lab | <b> **Digital Logic Circuit Design Virtual Lab**
 <b> Experiment|     <b> **Logic Simplification and Experiment 1**
 
-
+### Subject Matter Expert
 
 <b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
 :--|:--|
