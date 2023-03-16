@@ -4,7 +4,7 @@ A simplified Boolean expression uses the fewest gates possible to implement a gi
 
 Example Using Boolean algebra techniques, simplify this expression: 
 
-$$ AB + A(B + C) + B(B + C) $$
+$$AB+A(B+C)+B(B+C)$$
 
 Solution:
 
@@ -33,3 +33,6 @@ At this point the expression is simplified as much as possible.
 <center>
 <img src='./images/Img1.png'>
 </center>
+
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
