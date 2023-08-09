@@ -2,7 +2,7 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "The boolean expression \\( X = B + A \\bar{B} + AB \\) is equivalent to",
+        "question": "The boolean expression \\( X=B + A \\bar{B} + AB \\) is equivalent to",
         "answers": {
           "a": "\\( A + B \\)",
           "b": "\\( \\bar{A} B \\)",
