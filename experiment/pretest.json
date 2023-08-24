@@ -2,18 +2,18 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "The boolean expression \\( X = B + A \\bar{B} + AB \\) is equivalent to",
+        "question": "The boolean expression <img src=\"./images/Pre_Q1_eq.PNG\"> is equivalent to",
         "answers": {
-          "a": "\\( A + B \\)",
-          "b": "\\( \\bar{A} B \\)",
-          "c": "\\( \\overline{AB} \\)",
-          "d": "\\( AB \\)"
+          "a": "<img src=\"./images/Pre_Q1_A1.PNG\">",
+          "b": "<img src=\"./images/Pre_Q1_A2.PNG\">",
+          "c": "<img src=\"./images/Pre_Q1_A3.PNG\">",
+          "d": "<img src=\"./images/Pre_Q1_A4.PNG\">"
         },
         "correctAnswer": "a",
         "difficulty": "beginner"
       },
       {
-        "question": "The Boolean expression \\( X = (A + B)(C + D) \\) represents",
+        "question": "The Boolean expression <img src=\"./images/Pre_Q2_eq.PNG\"> represents",
         "answers": {
           "a": "two ORs ANDed together",
           "b": "two ANDs ORed together",
@@ -26,10 +26,10 @@
       {
         "question": "Which of the following boolean expressions is 'NOT TRUE'?",
         "answers": {
-          "a": "\\( A+1 = A \\)",
-          "b": "\\( A+\\bar{A} = 1 \\)",
-          "c": "\\( A.A = A \\)",
-          "d": "\\( A\\bar{A} = 0 \\)"
+          "a": "<img src=\"./images/Pre_Q3_A1.PNG\">",
+          "b": "<img src=\"./images/Pre_Q3_A2.PNG\">",
+          "c": "<img src=\"./images/Pre_Q3_A3.PNG\">",
+          "d": "<img src=\"./images/Pre_Q3_A4.PNG\">"
         },
         "correctAnswer": "a",
         "difficulty": "beginner"
@@ -37,10 +37,10 @@
       {
         "question": "The boolean expression \\( Y=AB+(A+B)( \\bar{A} + B ) \\) may be simplified as",
         "answers": {
-          "a": "\\( Y = A \\)",
-          "b": "\\( Y = \\bar{A} \\)",
-          "c": "\\( Y = B \\)",
-          "d": "\\( Y = \\bar{B} \\)"
+          "a": " Y = A ",
+          "b": "<img src=\"./images/Pre_Q4_A2.PNG\">",
+          "c": " Y = B ",
+          "d": "<img src=\"./images/Pre_Q4_A4.PNG\">"
         },
         "correctAnswer": "c",
         "difficulty": "beginner"
@@ -48,10 +48,10 @@
       {
         "question": "Which of the following boolean algebra rules is correct?",
         "answers": {
-          "a": "\\( A . \\bar{A} = 1 \\)",
-          "b": "\\( A + AB = A + B \\)",
-          "c": "\\( A + \\bar{A} B = A + B\\)",
-          "d": "\\( A ( A + B ) = B \\)"
+          "a": "<img src=\"./images/Pre_Q5_A1.PNG\">",
+          "b": " A + AB = A + B ",
+          "c": "<img src=\"./images/Pre_Q5_A3.PNG\">",
+          "d": " A ( A + B ) = B "
         },
         "correctAnswer": "c",
         "difficulty": "beginner"
