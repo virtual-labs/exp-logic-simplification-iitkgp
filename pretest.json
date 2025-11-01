@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The boolean expression <img src=\"./images/Pre_Q1_eq.PNG\"> is equivalent to",
+        "answers": {
+          "a": "<img src=\"./images/Pre_Q1_A1.PNG\">",
+          "b": "<img src=\"./images/Pre_Q1_A2.PNG\">",
+          "c": "<img src=\"./images/Pre_Q1_A3.PNG\">",
+          "d": "<img src=\"./images/Pre_Q1_A4.PNG\">"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The Boolean expression <img src=\"./images/Pre_Q2_eq.PNG\"> represents",
+        "answers": {
+          "a": "two ORs ANDed together",
+          "b": "two ANDs ORed together",
+          "c": "A 4-input AND gate",
+          "d": "A 4-input OR gate"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following boolean expressions is 'NOT TRUE'?",
+        "answers": {
+          "a": "<img src=\"./images/Pre_Q3_A1.PNG\">",
+          "b": "<img src=\"./images/Pre_Q3_A2.PNG\">",
+          "c": "<img src=\"./images/Pre_Q3_A3.PNG\">",
+          "d": "<img src=\"./images/Pre_Q3_A4.PNG\">"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The boolean expression \\( Y=AB+(A+B)( \\bar{A} + B ) \\) may be simplified as",
+        "answers": {
+          "a": " Y = A ",
+          "b": "<img src=\"./images/Pre_Q4_A2.PNG\">",
+          "c": " Y = B ",
+          "d": "<img src=\"./images/Pre_Q4_A4.PNG\">"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following boolean algebra rules is correct?",
+        "answers": {
+          "a": "<img src=\"./images/Pre_Q5_A1.PNG\">",
+          "b": " A + AB = A + B ",
+          "c": "<img src=\"./images/Pre_Q5_A3.PNG\">",
+          "d": " A ( A + B ) = B "
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
